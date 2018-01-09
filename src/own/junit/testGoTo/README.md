@@ -1,0 +1,3 @@
+## 这是一个关于GOTO关键字在JS和JAVA中的break和continue使用
+GOTO的outer必须要在循环的头部，相当于说明continue和break的断点位置
+>>_GOTO的使用在JS和JAVA中一样_
